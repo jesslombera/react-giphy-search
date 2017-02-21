@@ -1,8 +1,7 @@
 # react-giphy-search
-Small application where a user can search for gifs with giphy API
+Small application where a user can search for gifs and display results.
+Used Giphy API for the search engine
 
-
-This web application let's a user search for a giphy!
 
 ##Usage
 ```
