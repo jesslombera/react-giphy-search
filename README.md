@@ -15,4 +15,6 @@ open http://localhost:8080/
 * Webpack
 * babel-loader
 * react-modal
+* redux-promise
+* 
 
