@@ -16,5 +16,5 @@ open http://localhost:8080/
 * babel-loader
 * react-modal
 * redux-promise
-* 
+ 
 
