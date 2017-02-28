@@ -7,7 +7,7 @@ import GifModal from '../components/GifModal.jsx';
 import SearchBar from '../components/SearchBar.jsx';
 import '../styles/styles.css';
 
-class App extends React.Component {
+class Home extends React.Component {
   render() {
     return (
       <div>
@@ -37,4 +37,4 @@ function mapDispatchToProps(dispatch) {
   };
 }
 
-export default connect(mapStateToProps, mapDispatchToProps)(App);
+export default connect(mapStateToProps, mapDispatchToProps)(Home);
