@@ -15,6 +15,9 @@ open http://localhost:8080/
 * Webpack
 * babel-loader
 * react-modal
-* redux-promise
+* redux-thunk
+* react-router
+* superagent
+* firebase
  
 
